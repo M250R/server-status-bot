@@ -9,8 +9,8 @@ let currentLanguage = language;
 
 client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}`);
-  console.log(`Code by Wick Studio`);
-  console.log(`discord.gg/wicks`);
+  console.log(`Code by M250`);
+  console.log(`https://discord.gg/v5ckrWWZ`);
   isReady = true;
 
   sendEmbed();
